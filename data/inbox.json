@@ -1,0 +1,392 @@
+[
+  {
+    "message_id": "MSG-0001",
+    "folder_path": "Inbox",
+    "received_datetime": "2026-01-05T20:04:02Z",
+    "sender_address": "accounts@atlas-consulting.example",
+    "subject": "Invoice INV-2026",
+    "attachments": [
+      {
+        "file_name": "INV-2026.pdf",
+        "source_file": "INV-2026.pdf"
+      }
+    ]
+  },
+  {
+    "message_id": "MSG-0002",
+    "folder_path": "Inbox",
+    "received_datetime": "2026-01-05T20:42:06Z",
+    "sender_address": "finance@nimbus-tech.example",
+    "subject": "Invoice INV-2002",
+    "attachments": [
+      {
+        "file_name": "INV-2002.pdf",
+        "source_file": "INV-2002.pdf"
+      }
+    ]
+  },
+  {
+    "message_id": "MSG-0003",
+    "folder_path": "Inbox",
+    "received_datetime": "2026-01-07T04:31:43Z",
+    "sender_address": "invoices@eagle-mfg.example",
+    "subject": "Invoice INV-2010",
+    "attachments": [
+      {
+        "file_name": "INV-2010.pdf",
+        "source_file": "INV-2010.pdf"
+      }
+    ]
+  },
+  {
+    "message_id": "MSG-0004",
+    "folder_path": "Inbox",
+    "received_datetime": "2026-01-07T06:12:04Z",
+    "sender_address": "accounts@atlas-consulting.example",
+    "subject": "Invoice INV-2007",
+    "attachments": [
+      {
+        "file_name": "INV-2007.pdf",
+        "source_file": "INV-2007.pdf"
+      }
+    ]
+  },
+  {
+    "message_id": "MSG-0005",
+    "folder_path": "Inbox",
+    "received_datetime": "2026-01-08T00:54:46Z",
+    "sender_address": "ap@northstar-services.example",
+    "subject": "Invoice INV-2014",
+    "attachments": [
+      {
+        "file_name": "INV-2014.pdf",
+        "source_file": "INV-2014.pdf"
+      }
+    ]
+  },
+  {
+    "message_id": "MSG-0006",
+    "folder_path": "Inbox",
+    "received_datetime": "2026-01-08T17:30:09Z",
+    "sender_address": "finance@nimbus-tech.example",
+    "subject": "Invoice INV-2029",
+    "attachments": [
+      {
+        "file_name": "INV-2029.pdf",
+        "source_file": "INV-2029.pdf"
+      }
+    ]
+  },
+  {
+    "message_id": "MSG-0007",
+    "folder_path": "Inbox",
+    "received_datetime": "2026-01-09T16:03:31Z",
+    "sender_address": "accounts@atlas-consulting.example",
+    "subject": "Invoice INV-2024",
+    "attachments": [
+      {
+        "file_name": "INV-2024.pdf",
+        "source_file": "INV-2024.pdf"
+      }
+    ]
+  },
+  {
+    "message_id": "MSG-0008",
+    "folder_path": "Inbox",
+    "received_datetime": "2026-01-11T07:36:29Z",
+    "sender_address": "invoices@eagle-mfg.example",
+    "subject": "Invoice INV-2021",
+    "attachments": [
+      {
+        "file_name": "INV-2021.pdf",
+        "source_file": "INV-2021.pdf"
+      }
+    ]
+  },
+  {
+    "message_id": "MSG-0009",
+    "folder_path": "Inbox",
+    "received_datetime": "2026-01-11T11:22:12Z",
+    "sender_address": "invoices@eagle-mfg.example",
+    "subject": "Invoice INV-2003",
+    "attachments": [
+      {
+        "file_name": "INV-2003.pdf",
+        "source_file": "INV-2003.pdf"
+      }
+    ]
+  },
+  {
+    "message_id": "MSG-0010",
+    "folder_path": "Inbox",
+    "received_datetime": "2026-01-11T20:30:40Z",
+    "sender_address": "ap@northstar-services.example",
+    "subject": "Invoice INV-2028",
+    "attachments": [
+      {
+        "file_name": "INV-2028.pdf",
+        "source_file": "INV-2028.pdf"
+      }
+    ]
+  },
+  {
+    "message_id": "MSG-0011",
+    "folder_path": "Inbox",
+    "received_datetime": "2026-01-11T22:30:18Z",
+    "sender_address": "accounts@atlas-consulting.example",
+    "subject": "Invoice INV-2020",
+    "attachments": [
+      {
+        "file_name": "INV-2020.pdf",
+        "source_file": "INV-2020.pdf"
+      }
+    ]
+  },
+  {
+    "message_id": "MSG-0012",
+    "folder_path": "Inbox",
+    "received_datetime": "2026-01-12T10:23:39Z",
+    "sender_address": "billing@acme-learning.example",
+    "subject": "Invoice INV-2004",
+    "attachments": [
+      {
+        "file_name": "INV-2004.pdf",
+        "source_file": "INV-2004.pdf"
+      }
+    ]
+  },
+  {
+    "message_id": "MSG-0013",
+    "folder_path": "Inbox",
+    "received_datetime": "2026-01-12T15:02:51Z",
+    "sender_address": "invoices@eagle-mfg.example",
+    "subject": "Invoice INV-2018",
+    "attachments": [
+      {
+        "file_name": "INV-2018.pdf",
+        "source_file": "INV-2018.pdf"
+      }
+    ]
+  },
+  {
+    "message_id": "MSG-0014",
+    "folder_path": "Inbox",
+    "received_datetime": "2026-01-13T08:59:37Z",
+    "sender_address": "accounts@atlas-consulting.example",
+    "subject": "Invoice INV-2025",
+    "attachments": [
+      {
+        "file_name": "INV-2025.pdf",
+        "source_file": "INV-2025.pdf"
+      }
+    ]
+  },
+  {
+    "message_id": "MSG-0015",
+    "folder_path": "Inbox",
+    "received_datetime": "2026-01-13T23:51:02Z",
+    "sender_address": "finance@nimbus-tech.example",
+    "subject": "Invoice INV-2017",
+    "attachments": [
+      {
+        "file_name": "INV-2017.pdf",
+        "source_file": "INV-2017.pdf"
+      }
+    ]
+  },
+  {
+    "message_id": "MSG-0016",
+    "folder_path": "Inbox",
+    "received_datetime": "2026-01-14T05:40:51Z",
+    "sender_address": "accounts@atlas-consulting.example",
+    "subject": "Invoice INV-2030",
+    "attachments": [
+      {
+        "file_name": "INV-2030.pdf",
+        "source_file": "INV-2030.pdf"
+      }
+    ]
+  },
+  {
+    "message_id": "MSG-0017",
+    "folder_path": "Inbox",
+    "received_datetime": "2026-01-14T09:35:58Z",
+    "sender_address": "accounts@atlas-consulting.example",
+    "subject": "Invoice INV-2015",
+    "attachments": [
+      {
+        "file_name": "INV-2015.pdf",
+        "source_file": "INV-2015.pdf"
+      }
+    ]
+  },
+  {
+    "message_id": "MSG-0018",
+    "folder_path": "Inbox",
+    "received_datetime": "2026-01-15T01:07:58Z",
+    "sender_address": "accounts@atlas-consulting.example",
+    "subject": "Invoice INV-2019",
+    "attachments": [
+      {
+        "file_name": "INV-2019.pdf",
+        "source_file": "INV-2019.pdf"
+      }
+    ]
+  },
+  {
+    "message_id": "MSG-0019",
+    "folder_path": "Inbox",
+    "received_datetime": "2026-01-15T10:20:39Z",
+    "sender_address": "billing@acme-learning.example",
+    "subject": "Invoice INV-2027",
+    "attachments": [
+      {
+        "file_name": "INV-2027.pdf",
+        "source_file": "INV-2027.pdf"
+      }
+    ]
+  },
+  {
+    "message_id": "MSG-0020",
+    "folder_path": "Inbox",
+    "received_datetime": "2026-01-16T02:39:53Z",
+    "sender_address": "ap@northstar-services.example",
+    "subject": "Invoice INV-2012",
+    "attachments": [
+      {
+        "file_name": "INV-2012.pdf",
+        "source_file": "INV-2012.pdf"
+      }
+    ]
+  },
+  {
+    "message_id": "MSG-0021",
+    "folder_path": "Inbox",
+    "received_datetime": "2026-01-17T19:03:56Z",
+    "sender_address": "ap@northstar-services.example",
+    "subject": "Invoice INV-2006",
+    "attachments": [
+      {
+        "file_name": "INV-2006.pdf",
+        "source_file": "INV-2006.pdf"
+      }
+    ]
+  },
+  {
+    "message_id": "MSG-0022",
+    "folder_path": "Inbox",
+    "received_datetime": "2026-01-17T20:05:23Z",
+    "sender_address": "accounts@atlas-consulting.example",
+    "subject": "Invoice INV-2001",
+    "attachments": [
+      {
+        "file_name": "INV-2001.pdf",
+        "source_file": "INV-2001.pdf"
+      }
+    ]
+  },
+  {
+    "message_id": "MSG-0023",
+    "folder_path": "Inbox",
+    "received_datetime": "2026-01-18T16:22:15Z",
+    "sender_address": "accounts@atlas-consulting.example",
+    "subject": "Invoice INV-2011",
+    "attachments": [
+      {
+        "file_name": "INV-2011.pdf",
+        "source_file": "INV-2011.pdf"
+      }
+    ]
+  },
+  {
+    "message_id": "MSG-0024",
+    "folder_path": "Inbox",
+    "received_datetime": "2026-01-19T03:07:47Z",
+    "sender_address": "finance@nimbus-tech.example",
+    "subject": "Invoice INV-2022",
+    "attachments": [
+      {
+        "file_name": "INV-2022.pdf",
+        "source_file": "INV-2022.pdf"
+      }
+    ]
+  },
+  {
+    "message_id": "MSG-0025",
+    "folder_path": "Inbox",
+    "received_datetime": "2026-01-20T04:45:51Z",
+    "sender_address": "ap@northstar-services.example",
+    "subject": "Invoice INV-2023",
+    "attachments": [
+      {
+        "file_name": "INV-2023.pdf",
+        "source_file": "INV-2023.pdf"
+      }
+    ]
+  },
+  {
+    "message_id": "MSG-0026",
+    "folder_path": "Inbox",
+    "received_datetime": "2026-01-20T08:58:20Z",
+    "sender_address": "invoices@eagle-mfg.example",
+    "subject": "Invoice INV-2009",
+    "attachments": [
+      {
+        "file_name": "INV-2009.pdf",
+        "source_file": "INV-2009.pdf"
+      }
+    ]
+  },
+  {
+    "message_id": "MSG-0027",
+    "folder_path": "Inbox",
+    "received_datetime": "2026-01-21T04:28:28Z",
+    "sender_address": "finance@nimbus-tech.example",
+    "subject": "Invoice INV-2016",
+    "attachments": [
+      {
+        "file_name": "INV-2016.pdf",
+        "source_file": "INV-2016.pdf"
+      }
+    ]
+  },
+  {
+    "message_id": "MSG-0028",
+    "folder_path": "Inbox",
+    "received_datetime": "2026-01-22T07:32:53Z",
+    "sender_address": "ap@northstar-services.example",
+    "subject": "Invoice INV-2008",
+    "attachments": [
+      {
+        "file_name": "INV-2008.pdf",
+        "source_file": "INV-2008.pdf"
+      }
+    ]
+  },
+  {
+    "message_id": "MSG-0029",
+    "folder_path": "Inbox",
+    "received_datetime": "2026-01-25T05:40:28Z",
+    "sender_address": "ap@northstar-services.example",
+    "subject": "Invoice INV-2005",
+    "attachments": [
+      {
+        "file_name": "INV-2005.pdf",
+        "source_file": "INV-2005.pdf"
+      }
+    ]
+  },
+  {
+    "message_id": "MSG-0030",
+    "folder_path": "Inbox",
+    "received_datetime": "2026-01-25T15:47:50Z",
+    "sender_address": "billing@acme-learning.example",
+    "subject": "Invoice INV-2013",
+    "attachments": [
+      {
+        "file_name": "INV-2013.pdf",
+        "source_file": "INV-2013.pdf"
+      }
+    ]
+  }
+]

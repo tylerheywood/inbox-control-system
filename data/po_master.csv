@@ -1,0 +1,26 @@
+po_number,supplier_account,po_status,approval_status
+PO-100001,SUP-32762,Open order,Confirmed
+PO-100002,SUP-11518,Open order,Confirmed
+PO-100003,SUP-28390,Open order,Confirmed
+PO-100004,SUP-61425,Open order,Confirmed
+PO-100005,SUP-54726,Open order,Confirmed
+PO-100006,SUP-40480,Open order,Confirmed
+PO-100007,SUP-19627,Open order,Confirmed
+PO-100008,SUP-88269,Open order,Confirmed
+PO-100009,SUP-57794,Open order,Confirmed
+PO-100010,SUP-46861,Open order,Confirmed
+PO-100011,SUP-67807,Open order,Confirmed
+PO-100012,SUP-25244,Open order,Confirmed
+PO-100013,SUP-97473,Open order,Confirmed
+PO-100014,SUP-47456,Open order,Confirmed
+PO-100015,SUP-13357,Closed,Confirmed
+PO-100016,SUP-42939,Open order,Confirmed
+PO-100017,SUP-96887,Open order,Confirmed
+PO-100018,SUP-70929,Open order,Confirmed
+PO-100019,SUP-74735,Open order,Confirmed
+PO-100020,SUP-11449,Open order,Confirmed
+PO-100021,SUP-70445,Open order,Confirmed
+PO-100022,SUP-51894,Open order,Confirmed
+PO-100023,SUP-16583,Open order,Confirmed
+PO-100024,SUP-91287,Open order,Confirmed
+PO-100025,SUP-92474,Open order,Confirmed
