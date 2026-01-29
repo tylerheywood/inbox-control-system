@@ -4,7 +4,7 @@
 
 This project demonstrates how a finance function can **reduce manual firefighting in AP** by applying simple, well-structured system design — without machine learning, black boxes, or ERP customisation.
 
-This repo is a**public-safe, end-to-end reference implementation**, built to show *how AP processes can be engineered*, not just operated.
+This repo is **public-safe, end-to-end reference implementation**, built to show *how AP processes can be engineered*, not just operated.
 
 ---
 ## Running the Demo
