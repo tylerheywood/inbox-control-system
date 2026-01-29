@@ -56,11 +56,11 @@ It shows how you can:
 
 #### Overview
 The Overview tab provides an at-a-glance view of total AP exposure, what can be posted immediately, and where risk or manual intervention remains.
-![AP Inbox Control – Overview](docs/assets/dashboard-overview.png)
+![AP Inbox Control – Overview](assets/dashboard-overview.png)
 
 #### Worklist
 The operational AP queue, ordered by priority with deterministic next actions and explicit blockers. Useful tool for managers to quickly assess and delegate tasks.
-![AP Inbox Control – Worklist](docs/assets/dashboard-worklist.png)
+![AP Inbox Control – Worklist](assets/dashboard-worklist.png)
 
 ### Technical Outcomes
 - Deterministic, auditable processing (no ML / no heuristics)
